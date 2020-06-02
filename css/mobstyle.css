@@ -1,0 +1,203 @@
+@media (max-width: 700px) {
+						
+	.main_nav			{
+							display:none;
+                        }
+                        
+    .mob_nav{
+        display: block;     
+    }
+
+    .mob_nav1{
+        display: block;
+    }
+
+    .hirebb{
+        width:85%;
+    }
+
+    .hinp{
+        padding:5px;
+    }
+    
+        .hireb{
+        top: 40px;
+        overflow: scroll;
+    }
+
+    .tt{
+        padding:5px 10px;
+        font-size: 12px;
+    }
+
+
+    .hirebbb{
+        font-size: 25px;
+    }
+
+    .sidenav{
+        display: none;
+    }
+
+    .mobimg{
+        display: block;
+        margin:auto;
+        width: 30%;
+        margin-top: 70px;
+    }
+
+    .main{
+        width: 100%;
+    }
+
+    .main h1{
+        margin-top:10px;
+        font-size: 30px;
+    }
+
+    .main ul{
+        margin-top:1px;
+    }
+
+    .main ul li a{
+        padding:5px;
+        font-size: 15px;
+    }
+
+    .btn1{
+        margin:10px auto;
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    
+        .btna{
+        margin:10px auto;
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    
+        .btnd{
+        margin:10px auto;
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+
+    .btn2{
+        margin:20px auto;
+    }
+
+    .h11{
+        font-size:30px;
+        width: 70%;
+    }
+
+    .about p{
+        width: 98%;
+        font-size:15px;
+    }
+
+    .about h3{
+        font-size: 20px;
+    }
+
+    .about table{
+        width: 98%;
+        font-size:15px;
+    }
+
+    .skills{
+        padding:40px;
+        padding-top: 100px;
+    }
+
+    .education{
+        padding:40px;
+        padding-top: 100px;
+    }
+
+    .education ul{
+        padding:0px;
+    }
+
+    .education ul li{
+        margin: 10px 0px;
+    }
+
+
+    .hire h1{
+        font-size:20px;
+    }
+
+    .portfolio{
+        padding:40px 0px;
+    }
+
+    .portfolio ul {
+        padding:0px;
+    }
+
+
+    .portfolio ul li{
+        margin: 15px 0px;
+    }
+
+    .portfolio ul li a{
+        font-size: 12px;
+    }
+
+    .blogs{
+        padding:40px;
+        padding-top: 100px;
+    }
+
+    .flex1{
+        width:300px;
+    }
+
+    .subscribe a{
+        display: inline-block;
+    }
+
+
+    .sk5 i{
+        padding:10px;
+        font-size: 15px;
+    }
+
+    .f1 h1{
+        font-size: 30px;
+    }
+
+    .f1 ul{
+        margin-top:10px;
+    }
+
+    .f1 ul li{
+        margin-right: 10px;
+    }
+
+    .f1 ul li a{
+        font-size: 13px;
+    }
+
+
+    .f2 ul{
+        margin-left:0px;
+        display:block;
+    }
+
+    .f2 ul li{
+        margin-right: 10px;
+    }
+
+    .f2 ul li a{
+        font-size: 13px;
+    }
+
+    .main h2{
+        font-size: 25px;
+        margin-top:10px;
+    }
+
+ }	
